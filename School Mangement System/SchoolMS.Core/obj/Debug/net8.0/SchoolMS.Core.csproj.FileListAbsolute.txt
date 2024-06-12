@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\bin\Debug\net8.0\SchoolMS.Core.deps.json
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\bin\Debug\net8.0\SchoolMS.Core.runtimeconfig.json
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\bin\Debug\net8.0\SchoolMS.Core.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\bin\Debug\net8.0\SchoolMS.Core.pdb
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\refint\SchoolMS.Core.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.pdb
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\SchoolMS.Core.genruntimeconfig.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Core\obj\Debug\net8.0\ref\SchoolMS.Core.dll

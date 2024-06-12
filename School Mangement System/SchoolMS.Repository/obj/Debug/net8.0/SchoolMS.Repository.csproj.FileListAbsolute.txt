@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Repository.deps.json
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Repository.runtimeconfig.json
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Repository.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Repository.pdb
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Core.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\bin\Debug\net8.0\SchoolMS.Core.pdb
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.AssemblyInfo.cs
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.csproj.CopyComplete
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\refint\SchoolMS.Repository.dll
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.pdb
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\SchoolMS.Repository.genruntimeconfig.cache
+C:\Users\HP\source\repos\School Mangement System\SchoolMS.Repository\obj\Debug\net8.0\ref\SchoolMS.Repository.dll
